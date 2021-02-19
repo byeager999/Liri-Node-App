@@ -19,7 +19,7 @@ node liri do-what-it-says
 This command reads what is included on the random.txt file using the file system npm module
 
 Below is the link to my github repository where this app resides:
-https://byeager999.github.io/liri-node-app
+https://github.com/byeager999/Liri-Node-App-V2
 
 Link to the video demo of the app
 https://www.youtube.com/watch?v=Arp5d9xcszY
